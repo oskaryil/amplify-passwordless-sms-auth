@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  region: 'your region',
-  userPoolId: 'your user pool id',
-  userPoolWebClientId: 'your client id',
+  region: 'eu-central-1',
+  userPoolId: 'eu-central-1_tPJaHikZ7',
+  userPoolWebClientId: '28fgomgovo9ekoh5ft9hv85j1',
 };
